@@ -31,8 +31,8 @@ A full-stack web application designed to streamline employee management processe
 
 - React.js
 - HTML5
-- CSS3
-- Bootstrap
+- Tailwind Css
+
 
 ---
 
